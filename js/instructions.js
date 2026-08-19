@@ -14,7 +14,7 @@ function instructionsPage1(condition_number) {
     return `
     <h2>Instructions</h2>
     <p>
-    In this survey, you will read about <strong>${fetchTrialParams(condition_number).length}</strong> scenarios, each one describing a social interaction between two people.
+    In this NEW survey, you will read about <strong>${fetchTrialParams(condition_number).length}</strong> scenarios, each one describing a social interaction between two people.
     </p>
     <p>
     For each scenario, we will <strong>ask you about what is likely to happen the next time the social interaction occurs.</strong>
